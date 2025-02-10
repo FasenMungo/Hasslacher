@@ -4,10 +4,10 @@ from datetime import datetime
 import pysftp
 
 # SFTP Server credentials
-SFTP_HOST = "your_sftp_server.com"
+SFTP_HOST = "ftp.epexspot.com"
 SFTP_PORT = 22  # Default SFTP port
-SFTP_USERNAME = "your_username"
-SFTP_PASSWORD = "your_password"
+SFTP_USERNAME = "hasslacher.marketdata"
+SFTP_PASSWORD = "j3q!fr25mye57659Cdb"
 REMOTE_DIR = "/path/to/remote/directory"
 LOCAL_DIR = "/path/to/local/directory"
 
